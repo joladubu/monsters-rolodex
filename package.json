@@ -2,7 +2,7 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://joladubu.github.io/basic-react-component-project",
+  "homepage":"git@github.com:joladubu/monsters-rolodex.git",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.12.0",
